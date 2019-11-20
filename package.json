@@ -1,0 +1,9 @@
+{
+  "name": "@widyakumara/prettier.config",
+  "version": "0.0.0",
+  "description": "My Prettier config",
+  "main": "prettier.config.js",
+  "repository": "git@github.com:widyakumara/prettier.config.git",
+  "author": "Dewa M. Widyakumara <widyakumara@gmail.com>",
+  "license": "MIT"
+}
